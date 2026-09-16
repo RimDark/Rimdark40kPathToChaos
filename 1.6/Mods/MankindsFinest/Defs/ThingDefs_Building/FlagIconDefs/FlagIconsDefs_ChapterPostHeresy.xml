@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+    <!-- Emperor's Children -->
+    <Genes40k.FlagIconDef>
+        <defName>BEWH_FlagIconIIIPH</defName>
+        <label>Emperor's Children (post heresy)</label>
+        <description>Legion insignia of the Emperor's Children after the Horus Heresy.</description>
+        <iconPath>UI/Decoration/LegionBadges/BEWH_iconUI_Legion_IIIEmperorsChildrenPOST</iconPath>
+        <sortOrder>3.5</sortOrder>
+    </Genes40k.FlagIconDef>
+
+    <!-- Iron Warriors -->
+    <Genes40k.FlagIconDef>
+        <defName>BEWH_FlagIconIVPH</defName>
+        <label>Iron Warriors (post heresy)</label>
+        <description>Legion insignia of the Iron Warriors after the Horus Heresy.</description>
+        <iconPath>UI/Decoration/LegionBadges/BEWH_iconUI_Legion_IVIronWarriorsPOST</iconPath>
+        <sortOrder>4.5</sortOrder>
+    </Genes40k.FlagIconDef>
+
+    <!-- Night Lords -->
+    <Genes40k.FlagIconDef>
+        <defName>BEWH_FlagIconVIIIPH</defName>
+        <label>Night Lords (post heresy)</label>
+        <description>Legion insignia of the Night Lords after the Horus Heresy.</description>
+        <iconPath>UI/Decoration/LegionBadges/BEWH_iconUI_Legion_VIIINightLordsPOST</iconPath>
+        <sortOrder>8.5</sortOrder>
+    </Genes40k.FlagIconDef>
+
+    <!-- World Eaters -->
+    <Genes40k.FlagIconDef>
+        <defName>BEWH_FlagIconXIIPH</defName>
+        <label>World Eaters (post heresy)</label>
+        <description>Legion insignia of the World Eaters after the Horus Heresy.</description>
+        <iconPath>UI/Decoration/LegionBadges/BEWH_iconUI_Legion_XIIWorldEatersPOST</iconPath>
+        <sortOrder>12.5</sortOrder>
+    </Genes40k.FlagIconDef>
+
+    <!-- Death Guard -->
+    <Genes40k.FlagIconDef>
+        <defName>BEWH_FlagIconXIVPH</defName>
+        <label>Death Guard (post heresy)</label>
+        <description>Legion insignia of the Death Guard after the Horus Heresy.</description>
+        <iconPath>UI/Decoration/LegionBadges/BEWH_iconUI_Legion_XIVDeathGuardPOST</iconPath>
+        <sortOrder>14.5</sortOrder>
+    </Genes40k.FlagIconDef>
+
+    <!-- Thousand Sons -->
+    <Genes40k.FlagIconDef>
+        <defName>BEWH_FlagIconXVPH</defName>
+        <label>Thousand Sons (post heresy)</label>
+        <description>Legion insignia of the Thousand Sons after the Horus Heresy.</description>
+        <iconPath>UI/Decoration/LegionBadges/BEWH_iconUI_Legion_XVThousandSonsPOST</iconPath>
+        <sortOrder>15.5</sortOrder>
+    </Genes40k.FlagIconDef>
+
+    <!-- Sons of Horus -->
+    <Genes40k.FlagIconDef>
+        <defName>BEWH_FlagIconXVIPH</defName>
+        <label>Sons of Horus (post heresy)</label>
+        <description>Legion insignia of the Sons of Horus after the Horus Heresy.</description>
+        <iconPath>UI/Decoration/LegionBadges/BEWH_iconUI_Legion_XVISonsOfHorusPOST</iconPath>
+        <sortOrder>16.5</sortOrder>
+    </Genes40k.FlagIconDef>
+
+    <!-- Word Bearers -->
+    <Genes40k.FlagIconDef>
+        <defName>BEWH_FlagIconXVIIPH</defName>
+        <label>Word Bearers (post heresy)</label>
+        <description>Legion insignia of the Word Bearers after the Horus Heresy.</description>
+        <iconPath>UI/Decoration/LegionBadges/BEWH_iconUI_Legion_XVIIWordBearersPOST</iconPath>
+        <sortOrder>17.5</sortOrder>
+    </Genes40k.FlagIconDef>
+
+</Defs>
