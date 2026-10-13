@@ -7,7 +7,7 @@
 		<li>1.7</li>
 	</supportedVersions>
 	<packageId>Phonicmas.RimDark.PathToChaos</packageId>
-	<modVersion>1.0.1</modVersion>
+	<modVersion>1.0.2</modVersion>
 	<description>RimDark 40k - Path to Chaos.</description>
 	<modDependencies>
 		<li>

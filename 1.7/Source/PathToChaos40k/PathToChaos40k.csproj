@@ -20,12 +20,8 @@
       <HintPath>..\..\..\..\..\Assembly-CSharp.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="UnityStubs">
-      <HintPath>..\..\..\..\..\UnityStubs.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="Core40k">
-      <HintPath>..\..\..\..\Rimdark40kFramework\1.6\Assemblies\Core40k.dll</HintPath>
+      <HintPath>..\..\..\..\Rimdark40kFramework\1.7\Assemblies\Core40k.dll</HintPath>
       <Private>False</Private>
     </Reference>
   </ItemGroup>
